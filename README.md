@@ -1,4 +1,4 @@
-<h1 align="center">Hi👋, I'm Bimarsha Khanal</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Bimarsha Khanal</h1>
 <h3 align="center">I can do it!</h3>
 
 - 🌱 I’m currently learning **: Machine Learning and Flask(RestApi)**
