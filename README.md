@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Bimarsha Khanal</h1>
-<h3 align="center">I can do it!</h3>
+<h2 align="center">Passion > Bugs</h2>
 
 - 🌱 I’m currently learning **: Machine Learning and Flask(RestApi)**
 
@@ -7,6 +7,7 @@
 
 - 📫 You can reach me here **bimarsha.work@gmail.com**
 
+___
 <h3 align="left">Connect with me:</h3>
   
   **I love connecting with people and building real communities with real human beings.**
