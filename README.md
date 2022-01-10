@@ -11,7 +11,6 @@ ___
 <h3 align="left">Connect with me:</h3>
   
   **I love connecting with people and building real communities with real human beings.**
-
   **So, if you have room for one more friend, here’s where you can find me…**
 <p align="left">
 <a href="https://twitter.com/bimarshak7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bimarshak7" height="30" width="40" /></a>
