@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=35px">, I'm Bimarsha Khanal</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=35px height=35px">, I'm Bimarsha Khanal</h1>
 <h2 align="center">Passion > Bugs</h2>
 
 - 🌱 I’m currently learning **: Machine Learning and Flask(RestApi)**
