@@ -1,4 +1,6 @@
+<p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3003&pause=200&center=true&vCenter=true&width=435&lines=Hey+there+👋!;I+am+Bimarsha+Khanal.;Nice+to+see+you+here...;Wanna+collaborate+?" alt="Bimarsha Khanal"  style="align:center"/></a>
+</p>
 
 <h2 align="center">Learning to build stuffs...</h2>
 
@@ -24,9 +26,9 @@ ___
 </p>
 
 ---
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bimarshak7&&locale=en&layout=compact&theme=radical" alt="bimarshak7" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bimarshak7&&locale=en&layout=compact&theme=radical" alt="bimarshak7" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bimarshak7&show_icons=true&locale=en&count_private=true&theme=radical" alt="bimarshak7" />
+<p>&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bimarshak7&show_icons=true&locale=en&count_private=true&theme=radical" alt="bimarshak7" />
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bimarshak7&theme=radical" alt="bimarshak7" /></p>
 
