@@ -10,7 +10,7 @@
 
 
 ___
-<h2 align="center"> 👨‍💻 Let's Connect...</h2>
+<h2 align="center"> 📫 Let's Connect...</h2>
 <p align="center">
   
   **I love connecting with people and building real communities with real human beings.**
@@ -26,10 +26,12 @@ ___
 </p>
 
 ---
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bimarshak7&&locale=en&layout=compact&theme=radical" alt="bimarshak7" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bimarshak7&&locale=en&layout=compact&theme=radical" alt="bimarshak7" /></p>  
 
-<p>&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bimarshak7&show_icons=true&locale=en&count_private=true&theme=radical" alt="bimarshak7" />
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=bimarshak7&show_icons=true&locale=en&count_private=true&theme=radical" alt="bimarshak7" />  
+
+  
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bimarshak7&theme=radical" alt="bimarshak7" /></p>
 
 ---
