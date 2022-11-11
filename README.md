@@ -26,6 +26,7 @@ ___
 </p>
 
 ---
+<h2 align="center"> 💻 Github Stats</h2>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bimarshak7&&locale=en&layout=compact&theme=radical" alt="bimarshak7" /></p>  
 
 
