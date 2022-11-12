@@ -13,8 +13,8 @@ ___
 <h2 align="center"> 📫 Let's Connect...</h2>
 <p align="center">
   
-  **I love connecting with people and building real communities with real human beings.**
-  **So, if you have room for one more friend, here’s where you can find me…**
+I love connecting with people and building real communities with real human beings.  
+So, if you have room for one more friend, here’s where you can find me…
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bimarsha.khanal) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/bimarshak7) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13677542) 
 </p>
