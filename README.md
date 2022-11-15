@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3003&pause=200&center=true&vCenter=true&width=435&lines=Hey+there+👋!;I+am+Bimarsha+Khanal.;Nice+to+see+you+here...;Wanna+collaborate+?" alt="Bimarsha Khanal"  style="align:center"/></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3003&pause=200&center=true&vCenter=true&width=435&lines=Hey+there+👋!;I+am+Bimarsha+Khanal.;Nice+to+see+you+here...;Wanna+collaborate+?" alt="Bimarsha Khanal"  style="align:center"/>
 </p>
 
 <h2 align="center">Learning to build stuffs...</h2>
