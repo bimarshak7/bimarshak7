@@ -16,7 +16,7 @@ ___
 I love connecting with people and building real communities with real human beings.  
 So, if you have room for one more friend, here’s where you can find me…
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bimarsha.khanal) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/bimarshak7) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13677542)[![Email](https://img.shields.io/badge/-Gmail-e51d0b?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:bimarsha.work@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bimarsha.khanal) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/bimarshak7) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13677542) [![Email](https://img.shields.io/badge/-Gmail-e51d0b?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:bimarsha.work@gmail.com) [![Webbsite](https://img.shields.io/badge/-Website-103?style=for-the-badge&logo=firefox&logoColor=white)](https://bimarshakhanal.com.np) [![Blog](https://img.shields.io/badge/-BLOG-721?style=for-the-badge&logo=hashnode&logoColor=white)](https://bimarshak.com.np) 
 </p>
 
 <h2 align="center"> 👨‍💻 Technology Stacks</h2>
