@@ -4,7 +4,7 @@
 
 <h2 align="center">Learning to build stuffs...</h2>
 
-- 🌱 I’m currently learning **: Deep Learning, Flask(RestApi)**
+- 🌱 I’m currently learning **: NLP, Flask(RestApi)**
 
 - 👯 I’m looking for oppurtunities in **Machine Learning**.
 
