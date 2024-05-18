@@ -4,9 +4,9 @@
 
 <h2 align="center">Learning to build stuffs...</h2>
 
-- 🌱 I’m currently learning **: NLP(LLM)**
+- 🌱 I’m currently learning **: LLM, MLOps**
 
-- 👯 I’m looking for oppurtunities in **Machine Learning**.
+- 🤝 Looking to learn or build with AI? Let's collaborate
 
 
 ___
