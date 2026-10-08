@@ -3,9 +3,6 @@
 </p>
 
 <h2 align="center">Learning to build stuffs...</h2>
-
-- 🌱 I’m currently learning **: LLM, MLOps**
-
 - 🤝 Looking to learn or build with AI? Let's collaborate
 
 
